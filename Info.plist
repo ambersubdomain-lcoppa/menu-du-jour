@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>Menu du Jour</string>
+    <key>CFBundleDisplayName</key>
+    <string>Menu du Jour</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.luca.menudujour</string>
+    <key>CFBundleVersion</key>
+    <string>1.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleExecutable</key>
+    <string>Menu du Jour</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSAccessibilityUsageDescription</key>
+    <string>Menu du Jour needs Accessibility access to detect the text caret position and simulate a right-click at that location.</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Menu du Jour uses Apple Events to run the Change Case action inside browser tabs (e.g. Gmail in Chrome or Safari), so formatting and undo keep working.</string>
+</dict>
+</plist>
